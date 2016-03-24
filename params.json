@@ -1,0 +1,6 @@
+{
+  "name": "07-data-210-worksheet-homework-spring-2016",
+  "tagline": "",
+  "body": "In this homework you will create a database from scratch, insert, update, delete, and select entries from it.\r\n\r\n1. Define the following tables in postgres. The first one can be called Persons and the second can be called Courses.\r\n\r\n| ID            | Name          | GPA   |\r\n| ------------- |:-------------:| -----:|\r\n| 1             | Paul          | 3.8   |\r\n| 2             | Aspen         |   3.2 |\r\n| 3             | Sebastian     |  3.85 |\r\n| 4             | Sarah         |   3.9 |\r\n| 5             | Jill          |   2.5 |\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
